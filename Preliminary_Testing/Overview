@@ -1,0 +1,3 @@
+After installing drive motors/wheels and front wheels/teering motors to the frame, it is time to test the robot.  
+Two ESP32 microcontrollers will be used for testing. A transmittor with two potentiometers attached, one for steering and one for power.
+Below is a picture of the transmittor.
