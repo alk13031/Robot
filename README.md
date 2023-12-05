@@ -10,6 +10,10 @@ Front View
 
 The goal of this project is to create a robot capable of certain semiautonomous tasks such as line following and path planning given a goal destination. The robot will look and move similarly to a car: rear wheel drive with front wheel steering. The goal is to create this out of basic components and not a kit. 3D Printing used when necassary.
 
+Designed in Onshape, picture of top level assembly below:
+![Onshape_Model](https://github.com/alk13031/Robot/assets/31907143/de217572-8261-431b-9dfa-ac721502551c)
+
+
 Below are the list of components used:  
 8 300mm 2020 Aluminum Extrudes (90 degree, straight brackets, hinges included)  
 4 SupeDroid Wheel and shafts  
