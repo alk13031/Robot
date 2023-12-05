@@ -5,7 +5,7 @@ Top View (Covers Removed)
 ![IMG_1162](https://github.com/alk13031/Robot/assets/31907143/9586a2c7-3896-46d7-bfb6-9cd6f93563c4)
 
 Front View
-![IMG_1170](https://github.com/alk13031/Robot/assets/31907143/da343c84-a63a-4080-a424-9b3a3dffea60)
+![IMG_1170_cropped](https://github.com/alk13031/Robot/assets/31907143/c7473e5f-0ed3-4f10-a4b2-ed4715eb708a)
 
 
 The goal of this project is to create a robot capable of certain semiautonomous tasks such as line following and path planning given a goal destination. The robot will look and move similarly to a car: rear wheel drive with front wheel steering. The goal is to create this out of basic components and not a kit. 3D Printing used when necassary.
