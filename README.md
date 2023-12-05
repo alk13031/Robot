@@ -1,9 +1,14 @@
 # Robot
 Project to create a semi autonomous robot
 
-![Robot_Picture_1](https://github.com/alk13031/Robot/assets/31907143/9581148f-5fc2-4832-8de3-c06ee756a660)
+Top View (Covers Removed)
+![IMG_1162](https://github.com/alk13031/Robot/assets/31907143/9586a2c7-3896-46d7-bfb6-9cd6f93563c4)
 
-The goal of this project is to create a robot capable of certain semiautonomous tasks such as line following and path planning given a goal destination. The robot will look and move similarly to a car: rear wheel drive with front wheel steering. The goal is to create this out of basic components and not a kit. 3D Printing will be used when necassary.
+Front View
+![IMG_1170](https://github.com/alk13031/Robot/assets/31907143/da343c84-a63a-4080-a424-9b3a3dffea60)
+
+
+The goal of this project is to create a robot capable of certain semiautonomous tasks such as line following and path planning given a goal destination. The robot will look and move similarly to a car: rear wheel drive with front wheel steering. The goal is to create this out of basic components and not a kit. 3D Printing used when necassary.
 
 Below are the list of components used:  
 8 300mm 2020 Aluminum Extrudes (90 degree, straight brackets, hinges included)  
